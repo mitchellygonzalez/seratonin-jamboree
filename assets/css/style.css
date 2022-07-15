@@ -20,6 +20,8 @@ body {
     border-radius: 0;
     border-bottom: 10px solid black;
   }
+
+
   
   .description{
     white-space: pre-wrap;
@@ -33,11 +35,11 @@ body {
   .row {
     white-space: pre-wrap;
     height: 80px;
-    border-top: 1px solid white;;
+    border-top: 1px solid rgb(0, 0, 0);;
   }
   
   .hour {
-    background-color: #ffffff;
+    background-color: rgb(255, 255, 183);
     color: #000000;
     border-top: 1px dashed #000000;
   }
